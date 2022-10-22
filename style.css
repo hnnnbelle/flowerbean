@@ -1,0 +1,100 @@
+body{
+    margin: 0 15em;
+}
+.kelas1 {
+    background-color: #F4C6D8;
+    margin: 0;
+}
+img.kelas2 {
+    display: inline-block;
+    width: 200px;
+    float: left;
+}
+p.kelas3 {
+    text-align: center;
+    padding: 3em 8em;
+}
+.font27 {
+    font-size: 2.7em;
+    font-family: Arial;
+}
+.font15 {
+    font-size: 1.5em;
+    font-family: 'Times New Roman';
+}
+img.kelas4 {
+    display: inline-block;
+    width: 110px;
+    float: right;
+}
+.kelasA {
+    background-color: #CF96B4;
+    margin: 0;
+    padding: 0;
+}
+table {
+    margin-bottom: 0px;
+    padding: 0;
+}
+body{
+    margin: 0 15em;
+}
+.kelas5{
+    background-color: #F4C6D8;
+    width: inherit;
+    height: 36em;
+    margin: 0;
+}
+img.Flower{
+    display: inline-block;
+    width: 90px;
+    float: left;
+    margin-left: 2%;
+}
+img.blue{
+    display: inline-block;
+    width: 90px;
+    float: left;
+    margin-left: 3%;
+}
+img.berry{
+    display: inline-block;
+    width: 90px;
+    float: left;
+    margin-left: 5%;
+}
+img.moon{
+    display: inline-block;
+    width: 90px;
+    float: left;
+    margin-left: 6%;
+}
+.kelas6{
+    background-color: #F4C6D8;
+    width: inherit;
+    height: 30em;
+    margin: 0;
+}
+img.purple{
+    display: inline-block;
+    width: 90px;
+    float: left;
+    margin-left: 3%;
+}
+img.yellow{
+    display: inline-block;
+    width: 90px;
+    float: left;
+    margin-left: 5%;
+}
+img.babe{
+    display: inline-block;
+    width: 90px;
+    float: left;
+    margin-left: 6%;
+}
+.callme {
+    background-color: #CF96B4;
+    margin: 0;
+    padding: 0;
+}
